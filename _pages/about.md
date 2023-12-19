@@ -8,8 +8,8 @@ profile:
   align: right
   image: # prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>NUS, BITS Pilani</p>
+  # more_info: >
+  #   <p>NUS, BITS Pilani</p>
 
 
 news: false  # includes a list of news items
