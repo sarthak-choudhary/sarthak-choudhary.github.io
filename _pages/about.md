@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Greetings! I am currently a Visiting Scholar at the KISP Lab, National University of Singapore, collaborating with [Prof. Prateek Saxena](https://www.comp.nus.edu.sg/~prateeks/). My research centers on the intersection of **ML** and **Privacy/Security**. I am interested in developing and understanding ML systems that can be deployed in the real world easily and responsibly.
 
-I recently graduated with a B.E. in Computer Science from BITS Pilani, India in 2023. During my undergraduate, I delved into Blockchain applications under the guidance of [Prof. Ashutosh Bhatia](https://www.bits-pilani.ac.in/pilani/ashutosh-bhatia/). Additionally, I had the privilege of spending a rewarding summer at The D.E. Shaw Group, India, in Hyderabad, contributing as a Software Development Intern.
+I graduated with a B.E. in Computer Science from BITS Pilani, India in 2023. During my undergraduate, I delved into Blockchain applications under the guidance of [Prof. Ashutosh Bhatia](https://www.bits-pilani.ac.in/pilani/ashutosh-bhatia/). Additionally, I had the privilege of spending a rewarding summer at The D.E. Shaw Group, India, in Hyderabad, contributing as a Software Development Intern.
 
 *Feel free to email me for research, collaborations, or a casual chat.* 
 
