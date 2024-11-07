@@ -11,6 +11,9 @@
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D. in Computer Science
+      institution: University of Wisconsin-Madison
+      year: 2024-Now
     - title: Bachelor of Engineering in Computer Science
       institution: Birla Institute of Technology and Science (BITS Pilani), India
       year: 2023
@@ -27,7 +30,7 @@
   contents:
     - title: Visiting Scholar
       institution: KISP Lab, National University of Singapore
-      year: 2022-Now 
+      year: 2022-2024 
       description:
         - Working on security and robustness of ML systems with Prof. Prateek Saxena.
         - Conducted in-depth research on Byzantine-Robust aggregation in high dimensions, culminating in the development of novel attack HIDRA, distrupting state-of-the-art defenses.
@@ -78,6 +81,8 @@
 - title: Academic Positions
   type: time_table
   contents:
+    - year: 2024
+        - Graduate Teaching Assistant for Programming III (CS 400) at UW-Madison
     - year: 2022
       items: 
         - Undergraduate Teaching Assistant for Data Structures and Algorithms (CS - F211) at BITS Pilani
