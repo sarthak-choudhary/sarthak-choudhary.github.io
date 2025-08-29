@@ -27,16 +27,6 @@ I graduated with a B.E. in Computer Science from BITS Pilani, India in 2023. Dur
 
 *Feel free to email me for research, collaborations, or a casual chat.* 
 
-## Announcements
-<ul>
-{% for ann in site.data.announcements %}
-  <li>
-    <strong>{{ ann.date }}</strong> – 
-    <a href="{{ ann.link }}">{{ ann.title }}</a>: {{ ann.description }}
-  </li>
-{% endfor %}
-</ul>
-
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
