@@ -1,17 +1,17 @@
-<!-- ---
-layout: cv
+---
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 4
-cv_pdf: Sarthak_CV.pdf
-description: 
-toc:
-  sidebar: left
 ---
-<meta http-equiv="refresh" content="0; url={{ '/assets/pdf/Sarthak_CV.pdf' | relative_url }}" /> -->
 
----
-permalink: /cv/
-redirect_to: /assets/pdf/Sarthak_CV.pdf
----
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url={{ '/assets/pdf/Sarthak_CV.pdf' | relative_url }}">
+    <link rel="canonical" href="{{ '/assets/pdf/Sarthak_CV.pdf' | relative_url }}">
+  </head>
+  <body>
+    <p>If you are not redirected, <a href="{{ '/assets/pdf/Sarthak_CV.pdf' | relative_url }}">click here to view the CV</a>.</p>
+  </body>
+</html>
