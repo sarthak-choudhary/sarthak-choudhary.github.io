@@ -23,6 +23,9 @@ ENV LANG=en_US.UTF-8 \
     LC_ALL=en_US.UTF-8 \
     JEKYLL_ENV=production
 
+# ensure convert exists (symlink to magick if needed)
+RUN ln -s /usr/bin/magick /usr/bin/convert
+
 # install jekyll and dependencies
 RUN gem install jekyll bundler
 
