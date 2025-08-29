@@ -35,6 +35,9 @@ jobs:
         value: ${{ github.repository }}
     - name: Install and Build 🔧
       run: |
+        sudo apt-get update
+        sudo apt-get install -y imagemagick
+        if [ ! -f /usr/bin/convert ]; then sudo ln -s /usr/bin/magick /usr/bin/convert; fi
         pip3 install --upgrade jupyter
         npm install -g mermaid.cli
         npm install -g purgecss
