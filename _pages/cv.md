@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: cv
 permalink: /cv/
 title: cv
@@ -9,4 +9,9 @@ description:
 toc:
   sidebar: left
 ---
-<meta http-equiv="refresh" content="0; url={{ '/assets/pdf/Sarthak_CV.pdf' | relative_url }}" />
+<meta http-equiv="refresh" content="0; url={{ '/assets/pdf/Sarthak_CV.pdf' | relative_url }}" /> -->
+
+---
+permalink: /cv/
+redirect_to: /assets/pdf/Sarthak_CV.pdf
+---
